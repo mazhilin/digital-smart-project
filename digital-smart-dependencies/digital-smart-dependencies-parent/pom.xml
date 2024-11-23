@@ -9,11 +9,11 @@
         <relativePath/>
     </parent>
     <groupId>com.digital.smart</groupId>
-    <artifactId>digital-smart-starter-parent</artifactId>
+    <artifactId>digital-smart-dependencies-parent</artifactId>
     <version>${digital-smart.version}</version>
-    <name>digital-smart-starter-parent</name>
+    <name>digital-smart-dependencies-parent</name>
     <description>DigitalSmart project for Spring Boot</description>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
 
     <properties>
         <digital-smart.version>0.0.1-SNAPSHOT</digital-smart.version>

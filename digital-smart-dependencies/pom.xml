@@ -67,7 +67,8 @@
     </properties>
 
     <modules>
-        <module>digital-smart-starter-parent</module>
+        <module>digital-smart-dependencies-boot</module>
+        <module>digital-smart-dependencies-parent</module>
     </modules>
 
     <build>
